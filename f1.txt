@@ -1,1 +1,0 @@
-mlops_                   /home/rajit/anaconda3/envs/mlops_
